@@ -1,1 +1,2 @@
-# Trading
+# Welcome to Spookworks Trading
+
